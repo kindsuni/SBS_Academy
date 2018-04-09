@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="0409(SingleTon).cpp">
+    <ClCompile Include="Deco.cpp">
       <Filter>리소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
